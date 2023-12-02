@@ -1,118 +1,114 @@
-a 
-{ font-size:35px;
-  color:PaleGreen;
-}
-body
-{
- 
-     width:100%;
-     height:100%; 
-	  background-size:100%;
-	background:#1e3c16;
-	;	
+a {
+	font-size: 35px;
+	color: PaleGreen;
 }
 
+body {
 
-.v1
-{ color:PaleGreen;
-	width:50%;
-	height:;
-	position:absolute;
-	left:8%;
-	top:5%;
-	
-	 font-size:20px
-	
+	width: 100%;
+	height: 100%;
+	background-size: 100%;
+	background: #1e3c16;
+	;
 }
 
-.v2
-{color:black;
-	width:50%;
-	height:50%;
-	position:absolute;
-	left:5%;
-	top:25%;
-	background:OliveDrab;
-	background-size:100%;
-	padding:1%;
-	box-sizing:border-box;
-	overflow-y:scroll;
-	 font-size:28px;
-	 border-radius:20px 20px 20px 20px;
+
+.v1 {
+	color: PaleGreen;
+	width: 50%;
+	height: ;
+	position: absolute;
+	left: 8%;
+	top: 5%;
+
+	font-size: 20px
 }
 
-.v3
-{
-	width:50%;
-	height:50%;
-	position:absolute;
-	left:60%;
-	top:25%;
-	
-	
+.v2 {
+	color: black;
+	width: 50%;
+	height: 50%;
+	position: absolute;
+	left: 5%;
+	top: 25%;
+	background: OliveDrab;
+	background-size: 100%;
+	padding: 1%;
+	box-sizing: border-box;
+	overflow-y: scroll;
+	font-size: 28px;
+	border-radius: 20px 20px 20px 20px;
 }
 
-.c1
-{ background:url(r4.jpg);
- background-size:100%;
- position:absolute;
- left:65%;
- top: 5% ;
- width:30% ;
- height:40%  ;	
- 
+.v3 {
+	width: 50%;
+	height: 50%;
+	position: absolute;
+	left: 60%;
+	top: 25%;
+
+
 }
 
-.c0
-{ background:url(r5.jpg);
- background-size:100%;
- position:absolute;
- left:65%;
- top: 55% ;
- width:30% ;
- height:40%  ;	
- 
+.c1 {
+	background: url(r4.jpg);
+	background-size: 100%;
+	position: absolute;
+	left: 65%;
+	top: 5%;
+	width: 30%;
+	height: 40%;
+
+}
+
+.c0 {
+	background: url(r5.jpg);
+	background-size: 100%;
+	position: absolute;
+	left: 65%;
+	top: 55%;
+	width: 30%;
+	height: 40%;
+
 }
 
 
 
 
 
-.c
-{ color:PaleGreen;
-	width:50%;
-	height:;
-	position:absolute;
-	left:12%;
-	top:5%;
-	
-	 font-size:20px
-	
+.c {
+	color: PaleGreen;
+	width: 50%;
+	height: ;
+	position: absolute;
+	left: 12%;
+	top: 5%;
+
+	font-size: 20px
 }
 
-.c2
-{color:black;
-	width:40%;
-	height:50%;
-	position:absolute;
-	left:5%;
-	top:25%;
-	background:OliveDrab;
-	background-size:100%;
-	padding:1%;
-	box-sizing:border-box;
-	overflow-y:scroll;
-	 font-size:28px;
-	 border-radius:20px 20px 20px 20px;
+.c2 {
+	color: black;
+	width: 40%;
+	height: 50%;
+	position: absolute;
+	left: 5%;
+	top: 25%;
+	background: OliveDrab;
+	background-size: 100%;
+	padding: 1%;
+	box-sizing: border-box;
+	overflow-y: scroll;
+	font-size: 28px;
+	border-radius: 20px 20px 20px 20px;
 }
 
-.c3
-{
-	width:50%;
-	height:50%;
-	position:absolute;
-	left:47%;
-	top:28%;
-	
-	
+.c3 {
+	width: 50%;
+	height: 50%;
+	position: absolute;
+	left: 47%;
+	top: 28%;
+
+
 }

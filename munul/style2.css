@@ -1,66 +1,63 @@
-a 
-{ font-size:30px;
-  color:PaleGreen;
-}
-body
-{
- 
-     width:100%;
-     height:100%; 
-	 position:absolute;
-	 width:120% ;
-     height:120%; 
-    left:0%;
-	top:0%;
-	  background-size:100%;
-	 background-image:url(123.jpg);
-	 background-repeat:no-repeat;
-	;	
+a {
+	font-size: 30px;
+	color: PaleGreen;
 }
 
+body {
 
-
-
-.l1
-{   color:PaleGreen;
-left:5%;
-	top:3%;
-	position:absolute;
-	width:100% ;
-     height:100%; 
-	 	font-size:30px
-	
+	width: 100%;
+	height: 100%;
+	position: absolute;
+	width: 120%;
+	height: 120%;
+	left: 0%;
+	top: 0%;
+	background-size: 100%;
+	background-image: url(123.jpg);
+	background-repeat: no-repeat;
+	;
 }
 
-.l2
-{
-	width:30%;
-	height:30%;
-	position:absolute;
-	left:5%;
-	top:30%;
-	background:OliveDrab;
-	background-size:100%;
-	padding:1%;
-	box-sizing:border-box;
-	overflow-y:scroll;
-	 font-size:25px;
-	 border-radius:20px 20px 20px 20px;
-	
+
+
+
+.l1 {
+	color: PaleGreen;
+	left: 5%;
+	top: 3%;
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	font-size: 30px
 }
 
-.l3
-{
-	width:30%;
-	height:20%;
-	position:absolute;
-	left:65%;
-	top:5%;
-	background:;
-	background-size:100%;
-	padding:1%;
-	box-sizing:border-box;
-	 font-size:15px;
-	 border-radius:20px 20px 20px 20px;
-	
+.l2 {
+	width: 30%;
+	height: 30%;
+	position: absolute;
+	left: 5%;
+	top: 30%;
+	background: OliveDrab;
+	background-size: 100%;
+	padding: 1%;
+	box-sizing: border-box;
+	overflow-y: scroll;
+	font-size: 25px;
+	border-radius: 20px 20px 20px 20px;
+
+}
+
+.l3 {
+	width: 30%;
+	height: 20%;
+	position: absolute;
+	left: 65%;
+	top: 5%;
+	background: ;
+	background-size: 100%;
+	padding: 1%;
+	box-sizing: border-box;
+	font-size: 15px;
+	border-radius: 20px 20px 20px 20px;
+
 }
