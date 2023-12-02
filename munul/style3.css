@@ -1,0 +1,66 @@
+a 
+{ font-size:30px;
+  color:PaleGreen;
+}
+body
+{
+ 
+     width:100%;
+     height:100%; 
+	  background-size:100%;
+	 background-image:url(1234.jpg);
+	 background-repeat:no-repeat;
+	;	
+}
+
+
+.k
+{   color:PaleGreen
+}
+
+ 
+ .k1
+{   color:PaleGreen;
+left:5%;
+	top:1%;
+	position:absolute;
+	width:100% ;
+     height:100%; 
+	 	font-size:30px
+	
+}
+
+.k2
+{color:black;
+	width:40%;
+	height:30%;
+	position:absolute;
+	left:5%;
+	top:25%;
+	background:#3D642D;
+	background-size:100%;
+	padding:1%;
+	box-sizing:border-box;
+	overflow-y:scroll;
+	 font-size:25px;
+	 border-radius:20px 20px 20px 20px;
+}
+
+.k3
+{
+	width:30%;
+	height:20%;
+	position:absolute;
+	left:5%;
+	top:52%;
+	background:;
+	background-size:100%;
+	padding:1%;
+	box-sizing:border-box;
+	 font-size:15px
+	
+}
+
+
+
+

@@ -1,0 +1,130 @@
+
+
+a 
+{ font-size:25px;
+  color:PaleGreen;
+}
+body
+{
+  background:OliveDrab;	
+}
+
+.b1
+{ background:url(11.png);
+ background-size:100%;
+ position:absolute;
+ left:3%;
+ top: 3% ;
+ width:30% ;
+ height:40%  ;	
+ border-radius:20px 20px 20px 20px;
+ transition-duration:3s;
+}
+.b1:hover
+{
+background:url(1.png);	
+background-size:120%;
+}
+
+
+.b2
+{ background:url(22.png);
+ background-size:100%;
+ position:absolute;
+ left:34%;
+ top: 3% ;
+ width:30% ;
+ height:40%  ;	
+ border-radius:20px 20px 20px 20px;
+ transition-duration:3s;
+}
+.b2:hover
+{
+background:url(2.png);	
+background-size:120%;
+}
+
+.b3
+ 
+{ background:url(33.png);
+ background-size:100%;
+ position:absolute;
+ left:65%;
+ top: 3% ;
+ width:30% ;
+ height:40%  ;	
+ border-radius:20px 20px 20px 20px;
+ transition-duration:3s;
+}
+.b3:hover
+{
+background:url(3.png);	
+background-size:120%;
+}
+
+  
+  .b4
+{ background:url(44.png);
+ background-size:100%;
+ position:absolute;
+ left:3%;
+ top: 46% ;
+ width:30% ;
+ height:40%  ;	
+ border-radius:20px 20px 20px 20px;
+ transition-duration:3s;
+}
+.b4:hover
+{
+background:url(4.png);	
+background-size:120%;
+}
+
+
+
+.b7
+{  background:#235922;
+ background-size:100%;
+ position:absolute;
+ left:34%;
+ top: 46% ;
+ width:30% ;
+ height:40%  ;	
+ border-radius:20px 20px 20px 20px;
+ text-align:center
+
+ 
+}
+
+ 
+
+
+	 
+  .b6
+{ background:url(66.png);
+ background-size:100%;
+ position:absolute;
+ left:65%;
+ top: 46% ;
+ width:32% ;
+ height:40%  ;	
+ border-radius:20px 20px 20px 20px;
+ transition-duration:3s;
+}
+.b6:hover
+{
+background:url(6.png);	
+background-size:120%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
